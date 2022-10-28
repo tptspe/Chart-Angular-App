@@ -1,1 +1,1 @@
-# Bar-and-Line-Charts-using-ChartJs-in-Angular
+# Bar-LineChart-App-using-ChartJs-Angular
